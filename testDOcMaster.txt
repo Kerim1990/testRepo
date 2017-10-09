@@ -1,3 +1,0 @@
-var t = 66;
-console.log(t);
-aleert()';
